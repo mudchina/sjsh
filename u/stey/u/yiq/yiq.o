@@ -1,0 +1,5 @@
+#/d/eastway/npc/pet.c
+dbase (["eff_kee":50,"kee":50,"max_kee":50,"con":3,"sen":50,"cor":3,"int":7,"long":"ÉµºõºõËüÊÇÒÂÇàµÄ×øÆï¡£","max_sen":50,"cps":3,"str":3,"ride":(["dodge":35,"msg":"Æï",]),"combat_exp":100,"actions":(["action":"$N¹¥»÷$nµÄ%s£¬%s",]),"gender":"Å®ĞÔ","base_name":"ÍÃ","name":"[1;37m¿ÖÁúÃÃÃÃÃ¨[2;37;0m","owner":"yiq","age":1,"daoxing":100,"limbs":({"Í·²¿","ÉíÌå","Ç°½Å","áá½Å","Î²°Í",}),"attitude":"friendly","is_pet":1,"weight":1000,"gin":50,"race":"Ò°ÊŞ","eff_sen":50,"eff_gin":50,"unit":"Ö»","max_gin":50,"id":"klmm mao","default_actions":(["action":"$N¹¥»÷$nµÄ%s£¬%s",]),"per":3,"series_no":"1","spi":3,])
+skills (["unarmed":10,])
+learned (["unarmed":0,])
+SAVE_NAME "pet_save"
